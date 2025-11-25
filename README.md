@@ -19,7 +19,7 @@ A classe contém três variáveis, sendo:
 
 **veiculos**: É uma lista de string, representando uma coleção de veículos estacionados. Contém apenas a placa do veículo.
 
-A classe contém três métodos, sendo:
+A classe contém três métodos, sendo
 
 **AdicionarVeiculo**: Método responsável por receber uma placa digitada pelo usuário e guardar na variável **veiculos**.
 
